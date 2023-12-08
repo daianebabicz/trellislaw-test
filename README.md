@@ -4,7 +4,7 @@ This Django application provides an API endpoint to convert numbers into their E
 
 ### Prerequisites
 
-- Python (3.9.6
+- Python (3.9.6)
 - Django (4.2.8)
 
 ### Installation
@@ -12,11 +12,11 @@ This Django application provides an API endpoint to convert numbers into their E
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/daianebabicz/trellislaw-test.git
+    cd api_project
     ```
 
-2. Install dependencies and/or create a venv:
+2. Install dependencies and/or activate a venv with 'source env/bin/activate':
 
     ```bash
     pip install -r requirements.txt
