@@ -42,7 +42,7 @@ Use the following endpoint to convert a number to its English word representatio
 #### Example
 
     ```bash
-curl http://127.0.0.1:8000/api/num_to_english?number=12345678
+    curl http://127.0.0.1:8000/api/num_to_english?number=12345678
     ```
 
 ### 2.Convert Number to English (POST)
@@ -55,6 +55,6 @@ Use the following endpoint to convert a number to its English word representatio
 #### Example
 
     ```bash
-curl -X POST -H "Content-Type: application/json" -d '{"number": "123456}
+    curl -X POST -H "Content-Type: application/json" -d '{"number": "123456}
     ```
 
